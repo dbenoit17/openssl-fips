@@ -2,8 +2,8 @@ package openssl_test
 
 import (
 	"bytes"
-	"github.com/golang-fips/openssl-fips/v2/openssl"
-	"github.com/golang-fips/openssl-fips/v2/openssl/bbig"
+	"github.com/dbenoit17/openssl-fips/v2/openssl"
+	"github.com/dbenoit17/openssl-fips/v2/openssl/bbig"
 	"math/big"
 	"testing"
 )

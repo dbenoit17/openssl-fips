@@ -1,3 +1,3 @@
-module github.com/golang-fips/openssl-fips
+module github.com/dbenoit17/openssl-fips
 
 go 1.18

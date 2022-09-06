@@ -13,8 +13,8 @@ diff openssl/ecdh_test.go v2/openssl/ecdh_test.go
 ---
 > package openssl_test
 4a5,6
-> 	"github.com/golang-fips/openssl-fips/v2/openssl"
-> 	"github.com/golang-fips/openssl-fips/v2/openssl/bbig"
+> 	"github.com/dbenoit17/openssl-fips/v2/openssl"
+> 	"github.com/dbenoit17/openssl-fips/v2/openssl/bbig"
 10c12
 < 	if !Enabled() {
 ---
